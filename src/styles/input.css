@@ -1,0 +1,7 @@
+input {
+    max-width: fit-content;
+}
+
+button {
+    max-width: max-content;
+}
